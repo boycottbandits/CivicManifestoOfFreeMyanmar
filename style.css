@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap');
 
 body {
-	background: #000;
+	background: #2e2e2e;
 }
 
 .container {
@@ -11,6 +11,15 @@ body {
 	margin: auto;
 	padding: 30px;
 	background: #fff;
+}
+
+.container.black {
+	background: #2e2e2e;
+	color: #fff;
+}
+
+.container.black a {
+	color: #ff0000;
 }
 
 .lang_switcher {
