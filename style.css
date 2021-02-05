@@ -5,6 +5,10 @@ body {
 	background: #2e2e2e;
 }
 
+.red-text {
+	color: #ff0000;
+}
+
 .container {
 	font-family:'Nunito','Ours-Unicode';
 	max-width: 1024px;
