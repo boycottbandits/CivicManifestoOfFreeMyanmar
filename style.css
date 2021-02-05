@@ -1,0 +1,18 @@
+@import url('https://mmwebfonts.comquas.com/fonts/?font=oursunicode');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap');
+
+body {
+	background: #000;
+}
+
+.container {
+	font-family:'Nunito','Ours-Unicode';
+	max-width: 1024px;
+	margin: auto;
+	padding: 30px;
+	background: #fff;
+}
+
+.lang_switcher {
+	text-align: center;
+}
