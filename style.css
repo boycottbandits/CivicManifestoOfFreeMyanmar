@@ -5,6 +5,10 @@ body {
 	background: #2e2e2e;
 }
 
+p {
+	line-height: 1.8rem;
+}
+
 .red-text {
 	color: #ff0000;
 }
