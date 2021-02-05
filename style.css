@@ -16,3 +16,12 @@ body {
 .lang_switcher {
 	text-align: center;
 }
+
+.social_share {
+	display: flex;
+	justify-content: center;
+}
+
+.social_share .btn {
+	margin: 20px;
+}
