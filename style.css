@@ -40,6 +40,18 @@ p {
 	text-align: center;
 }
 
+.lang_switcher .lang {
+	border: 1px solid #f00;
+    padding: 10px;
+    color: #ff0000;
+    text-decoration: none;
+}
+
+.lang_switcher .lang.active {
+	background: #ff0000;
+	color: #2e2e2e;
+}
+
 .social_share {
 	display: flex;
 	justify-content: center;
